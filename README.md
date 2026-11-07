@@ -8,6 +8,9 @@ Install the gem by executing:
 
     C:\> gem install denpad
 
+On Linux:
+    $ gem install denpad
+
 
 ## Development
 
